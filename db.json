@@ -1,0 +1,32 @@
+{
+  "passion": [
+    {
+      "id": 1,
+      "name": "talel ",
+      "email": "talel@gmail.com",
+      "password":"talel123",
+      "test": "negative"
+    },
+      {
+      "id": 2,
+      "name": "mahdi",
+      "email": "mahdi@gmail.com",
+      "password":"mahdi123",
+      "test": "negative"
+    },
+     {
+      "id": 3,
+      "name": "hkimi",
+      "email": "hkimi@gmail.com",
+      "password":"hkimi123",
+      "test": "positive"
+    },
+     {
+      "id": 4,
+      "name": "taher",
+      "email": "taher@gmail.com",
+      "password":"taher123",
+      "test": "positive"
+    }
+  ]
+}
